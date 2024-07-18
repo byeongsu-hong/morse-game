@@ -1,7 +1,5 @@
-# Suika / Watermelon Clone
+# Morse Game
 
-![](./screenshot.png)
+![Ingame Footage](./screenshot.png)
 
 Built using plain javascript and the [matter.js](https://github.com/liabru/matter-js) physics engine.
-
-**[Play the game](https://tombofry.github.io/suika-game/)**
